@@ -1,7 +1,7 @@
 # Pizza-Delivery-SQL-Database
 
 **Project Description:**
-The purpose of this project was to generate a pizza delivery database using SQL and populate it with randomized customer transactions. There are six different tables in this database including: Piza, Order, Customer, Side, OrderDetail, and Employee. All data in this project is fictional and randomized. 
+/n The purpose of this project was to generate a pizza delivery database using SQL and populate it with randomized customer transactions. There are six different tables in this database including: Piza, Order, Customer, Side, OrderDetail, and Employee. All data in this project is fictional and randomized. 
 
 ![image](https://user-images.githubusercontent.com/73268880/141702778-f18f7c07-f8e9-4104-b5e6-8cb7f4f20636.png)
 
