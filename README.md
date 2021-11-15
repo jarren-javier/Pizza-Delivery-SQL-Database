@@ -4,10 +4,12 @@
 <br /> The purpose of this project was to generate a pizza delivery database using SQL and populate it with randomized customer transactions. Business queries were generated to gain insight on business operations, business performance, and customer preferences. There are six different tables in this database including: Piza, Order, Customer, Side, OrderDetail, and Employee. All data in this project is fictional and was randomized in Excel. The SQL code to generate and populate the tables are included in the SQLData Folder. A PDF presentation covering the findings in the data is also available.
 <br />
 <br />
-![image](https://user-images.githubusercontent.com/73268880/141704892-49b38892-ebb2-459d-99e8-5bd15bada8ca.png)
+**Database Information:**
+- 6 Tables : Pizza, Side, Customer, Employee, Order, and OrderDetail
+- Dates: January 2020 - March 2020
+- 27 Different Pizzas (3 Sizes, 3 Sauces, and 3 Toppings), 10 sides, 10 employees, 50 customers, 1500 orders
 <br />
-<br />
-<br />
+
 ![image](https://user-images.githubusercontent.com/73268880/141702778-f18f7c07-f8e9-4104-b5e6-8cb7f4f20636.png)
 
 
@@ -20,6 +22,7 @@
 - The customer table stores customer information including city, name, gender, etc.
 - The employee table stores all the names of the employees responsible for delivering orders.
 <br />
+
 **Financials**
 ![image](https://user-images.githubusercontent.com/73268880/141705358-fe0938b8-6b87-4fbc-b808-8a97b2307394.png)
 - Monthly Sales Report show sales volume in February was a little slower, resulting in the decrease in sales at 47k.
@@ -47,7 +50,7 @@
 - Our customer demographic is predominantly female. We should explore why that is and increase our male customer base.
 
 ![image](https://user-images.githubusercontent.com/73268880/141705267-791158b5-2341-4778-bb59-529d8d07aa37.png)
--San Jose customers favor meat pizzas the most. Santa Clara and Milpitas look to have a more even distribution of meat and cheese preferences for their pizzas.
+- San Jose customers favor meat pizzas the most. Santa Clara and Milpitas look to have a more even distribution of meat and cheese preferences for their pizzas.
 - We can offer more targeted promotions based off pizza preference by city
 
 **Recommendations**
