@@ -1,7 +1,10 @@
 # Pizza-Delivery-SQL-Database
 
 **Project Description:**
-<br /> The purpose of this project was to generate a pizza delivery database using SQL and populate it with randomized customer transactions. Business queries were generated to understand the customer demographic, item popularity, location performance, sales trends for the business. There are six different tables in this database including: Piza, Order, Customer, Side, OrderDetail, and Employee. All data in this project is fictional and was randomized in Excel. The SQL code to generate and populate the tables are included in the SQLData Folder. A PDF presentation covering the findings in the data is also available.
+<br /> The purpose of this project was to generate a pizza delivery database using SQL and populate it with randomized customer transactions. Business queries were generated to gain insight on business operations, business performance, and customer preferences. There are six different tables in this database including: Piza, Order, Customer, Side, OrderDetail, and Employee. All data in this project is fictional and was randomized in Excel. The SQL code to generate and populate the tables are included in the SQLData Folder. A PDF presentation covering the findings in the data is also available.
+<br />
+<br />
+![image](https://user-images.githubusercontent.com/73268880/141704892-49b38892-ebb2-459d-99e8-5bd15bada8ca.png)
 <br />
 <br />
 <br />
