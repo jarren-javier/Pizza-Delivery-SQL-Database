@@ -20,7 +20,36 @@
 - The customer table stores customer information including city, name, gender, etc.
 - The employee table stores all the names of the employees responsible for delivering orders.
 
+<br />
+<br />
+<br />
+**Financials**
+<br />
+![image](https://user-images.githubusercontent.com/73268880/141704988-061eff95-8c68-4b3f-9315-911188efbf06.png)
+- Monthly Sales Report show sales volume in February was a little slower, resulting in the decrease in sales at 47k.
+- The average range of sales is around 10k-12k and we can see there was a slight increase in sales in week 4 and 9. Here we see sales saw a spike in 14k and 13k total revenue.
+![image](https://user-images.githubusercontent.com/73268880/141705011-9ede0d77-c02a-41ac-9863-092a14205b5d.png)
+The order and revenue breakdown by each city shows that Santa Clara provides the most volume of orders and revenue. We may also need to increase marketing in San Jose to get the volume of orders up.
+![image](https://user-images.githubusercontent.com/73268880/141705040-42aa2f44-8bc2-4778-9988-d672a8867151.png)
+- Monday is our busiest days. Weekend sales look to be suffering, increased promotions or marketing during these days is recommended.
 
+**Operations**
+<br />
+![image](https://user-images.githubusercontent.com/73268880/141705092-17dd8a45-aac3-4919-b1ca-bd705ab304b0.png)
+- There is not too much variation between the average delivery time (this includes the time to make the pizza) for each driver. Average delivery time is between 50 and 55 minutes from when the order is first placed.
+- Juliet Dennett is our top performer delivering 66 pizzas in total for March
+
+**Product Insight**
+![image](https://user-images.githubusercontent.com/73268880/141705129-bc4ef002-15f9-4ed2-85c6-f7dd24dfc731.png)
+- The most popular items: Large Marina Meat, Medium Marinara Vegetable, and Small BBQ meat pizzas sold over 200 times each in the last three month.
+
+**Customer Insight**
+![image](https://user-images.githubusercontent.com/73268880/141705247-62e1066a-92ad-495e-9ff9-d8d9399581f2.png)
+- Our customer demographic is predominantly female. We should explore why that is and increase our male customer base.
+
+![image](https://user-images.githubusercontent.com/73268880/141705267-791158b5-2341-4778-bb59-529d8d07aa37.png)
+-San Jose customers favor meat pizzas the most. Santa Clara and Milpitas look to have a more even distribution of meat and cheese preferences for their pizzas.
+- We can offer more targeted promotions based off pizza preference by city
 
 **Recommendations**
 1) Increase marketing in the city of San Jose to get the volume of orders  and revenue to increase
