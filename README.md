@@ -24,8 +24,7 @@
 <br />
 <br />
 **Financials**
-<br />
-![image](https://user-images.githubusercontent.com/73268880/141704988-061eff95-8c68-4b3f-9315-911188efbf06.png)
+![image](https://user-images.githubusercontent.com/73268880/141705358-fe0938b8-6b87-4fbc-b808-8a97b2307394.png)
 - Monthly Sales Report show sales volume in February was a little slower, resulting in the decrease in sales at 47k.
 - The average range of sales is around 10k-12k and we can see there was a slight increase in sales in week 4 and 9. Here we see sales saw a spike in 14k and 13k total revenue.
 ![image](https://user-images.githubusercontent.com/73268880/141705011-9ede0d77-c02a-41ac-9863-092a14205b5d.png)
