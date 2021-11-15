@@ -19,8 +19,6 @@
 - The order detail table stores information on the quantity, pizza size, and pizza topic type.
 - The customer table stores customer information including city, name, gender, etc.
 - The employee table stores all the names of the employees responsible for delivering orders.
-
-<br />
 <br />
 <br />
 **Financials**
